@@ -1,0 +1,218 @@
+
+Jul 20, 2022 17:10:11.93 NEW SESSION
+Jul 20, 2022 17:10:11.93 [3540:11816:0720/171011.932:ERROR:device_event_log_impl.cc(214)] [17:10:11.932] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 20, 2022 17:10:11.93 [3540:11816:0720/171011.932:ERROR:device_event_log_impl.cc(214)] [17:10:11.933] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 20, 2022 17:10:11.95 [3540:4180:0720/171011.955:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jul 20, 2022 17:10:35.57 [3540:4180:0720/171035.576:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jul 20, 2022 17:10:41.42 [3540:11816:0720/171041.426:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jul 20, 2022 17:11:06.78 [3540:1432:0720/171106.783:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 20, 2022 17:11:32.02 [3540:4180:0720/171132.025:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jul 20, 2022 17:12:59.39 [3540:4180:0720/171259.398:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jul 20, 2022 17:15:40.22 [3540:4180:0720/171540.221:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jul 20, 2022 17:22:48.42 [3540:4180:0720/172248.423:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 05, 2022 17:08:14.79 NEW SESSION
+Aug 05, 2022 17:08:14.79 [3596:7828:0805/170814.790:ERROR:device_event_log_impl.cc(214)] [17:08:14.790] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 05, 2022 17:08:14.89 [3596:7828:0805/170814.791:ERROR:device_event_log_impl.cc(214)] [17:08:14.791] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 05, 2022 17:08:14.89 [3596:7828:0805/170814.792:ERROR:device_event_log_impl.cc(214)] [17:08:14.792] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 05, 2022 17:09:11.04 [3596:5768:0805/170911.047:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 05, 2022 18:11:13.49 [3596:3996:0805/181113.492:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2022 19:50:26.67 [3596:3996:0805/195026.679:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 06, 2022 14:37:58.56 NEW SESSION
+Aug 06, 2022 14:37:58.56 [7632:7468:0806/143758.559:ERROR:device_event_log_impl.cc(214)] [14:37:58.559] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 06, 2022 14:37:58.66 [7632:7468:0806/143758.560:ERROR:device_event_log_impl.cc(214)] [14:37:58.560] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 06, 2022 14:37:58.66 [7632:7468:0806/143758.560:ERROR:device_event_log_impl.cc(214)] [14:37:58.560] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 06, 2022 14:38:54.45 [7632:10328:0806/143854.451:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 06, 2022 14:48:17.49 [7632:9484:0806/144817.491:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 06, 2022 14:48:26.13 [7632:9484:0806/144826.131:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+
+Aug 06, 2022 18:21:54.93 NEW SESSION
+Aug 06, 2022 18:21:54.93 [4116:2376:0806/182154.913:ERROR:device_event_log_impl.cc(214)] [18:21:54.912] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 06, 2022 18:21:55.23 [4116:2376:0806/182154.913:ERROR:device_event_log_impl.cc(214)] [18:21:54.913] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 06, 2022 18:21:55.23 [4116:2376:0806/182154.914:ERROR:device_event_log_impl.cc(214)] [18:21:54.914] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 06, 2022 18:22:50.08 [4116:10984:0806/182250.087:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 09, 2022 15:49:21.57 NEW SESSION
+Aug 09, 2022 15:49:21.57 [10072:6108:0809/154921.568:ERROR:device_event_log_impl.cc(214)] [15:49:21.567] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 09, 2022 15:49:21.72 [10072:6108:0809/154921.587:ERROR:device_event_log_impl.cc(214)] [15:49:21.586] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 09, 2022 15:49:21.73 [10072:6108:0809/154921.588:ERROR:device_event_log_impl.cc(214)] [15:49:21.587] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 09, 2022 15:50:16.11 [10072:1408:0809/155016.118:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 09, 2022 16:10:32.30 [10072:6108:0809/161032.306:ERROR:device_event_log_impl.cc(214)] [16:10:32.307] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 09, 2022 18:09:51.48 [10072:11292:0809/180951.488:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 19:29:34.91 [10072:11292:0809/192934.914:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 19:29:56.08 [10072:11292:0809/192956.086:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 19:30:44.64 [10072:11292:0809/193044.642:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 19:32:39.95 [10072:11292:0809/193239.956:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 19:35:49.69 [10072:11292:0809/193549.690:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 19:41:51.90 [10072:11292:0809/194151.901:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 19:49:56.71 [10072:7748:0809/194956.710:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 09, 2022 19:50:41.72 [10072:7748:0809/195041.725:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 09, 2022 19:51:49.25 [10072:7748:0809/195149.254:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 09, 2022 19:51:51.91 [10072:11292:0809/195151.914:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2022 20:50:16.13 [10072:5732:0809/205016.131:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 09, 2022 20:50:49.17 [10072:6108:0809/205049.170:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 20:53:33.86 [10072:6108:0809/205333.868:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 20:53:33.92 [10072:6108:0809/205333.920:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 20:57:02.77 [10072:6108:0809/205702.764:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 20:58:01.13 [10072:6108:0809/205801.137:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 20:58:01.31 [10072:6108:0809/205801.315:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:00:50.39 [10072:6108:0809/210050.393:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:00:50.63 [10072:6108:0809/210050.625:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:01:25.02 [10072:6108:0809/210125.020:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:04:01.49 [10072:6108:0809/210401.459:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:04:01.94 [10072:6108:0809/210401.944:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:04:23.65 [10072:6108:0809/210423.620:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:06:34.39 [10072:6108:0809/210634.389:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:06:35.38 [10072:6108:0809/210635.378:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:09:31.75 [10072:6108:0809/210931.740:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:09:32.56 [10072:6108:0809/210932.566:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:12:47.13 [10072:6108:0809/211247.117:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:16:03.12 [10072:6108:0809/211603.126:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:19:01.03 [10072:6108:0809/211901.022:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:19:02.39 [10072:6108:0809/211902.384:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:22:06.16 [10072:6108:0809/212206.103:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:22:06.57 [10072:6108:0809/212206.570:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:22:34.55 [10072:6108:0809/212234.548:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:24:58.84 [10072:6108:0809/212458.839:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:24:59.73 [10072:6108:0809/212459.728:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:25:15.21 [10072:6108:0809/212515.163:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:27:42.21 [10072:6108:0809/212742.201:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:27:43.18 [10072:6108:0809/212743.172:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:28:05.40 [10072:6108:0809/212805.400:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:30:27.47 [10072:6108:0809/213027.471:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:33:14.88 [10072:6108:0809/213314.885:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:36:26.20 [10072:6108:0809/213626.200:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:39:15.13 [10072:6108:0809/213915.132:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:39:15.51 [10072:6108:0809/213915.516:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:42:26.81 [10072:6108:0809/214226.814:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:42:27.40 [10072:6108:0809/214227.400:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:42:58.24 [10072:6108:0809/214258.242:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 09, 2022 21:49:28.64 [10072:6108:0809/214928.645:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+
+Aug 10, 2022 15:59:24.98 NEW SESSION
+Aug 10, 2022 15:59:24.98 [3952:948:0810/155924.975:ERROR:device_event_log_impl.cc(214)] [15:59:24.974] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 10, 2022 15:59:25.09 [3952:948:0810/155924.988:ERROR:device_event_log_impl.cc(214)] [15:59:24.987] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 10, 2022 15:59:25.13 [3952:948:0810/155924.990:ERROR:device_event_log_impl.cc(214)] [15:59:24.989] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 10, 2022 15:59:26.79 [3952:2368:0810/155926.796:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 15:59:48.07 [3952:2368:0810/155948.077:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:00:20.47 [3952:4732:0810/160020.479:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 10, 2022 16:00:36.63 [3952:2368:0810/160036.634:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:02:35.75 [3952:2368:0810/160235.751:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:05:32.60 [3952:2368:0810/160532.603:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:11:21.70 [3952:2368:0810/161121.704:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:21:21.71 [3952:2368:0810/162121.711:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:31:21.73 [3952:2368:0810/163121.737:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:41:21.76 [3952:2368:0810/164121.760:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 16:51:21.76 [3952:2368:0810/165121.769:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 17:01:21.78 [3952:2368:0810/170121.784:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 17:11:21.82 [3952:2368:0810/171121.824:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 17:21:21.83 [3952:2368:0810/172121.837:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 17:31:21.84 [3952:2368:0810/173121.845:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2022 17:49:25.51 [3952:2368:0810/174925.513:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 11, 2022 24:02:31.45 NEW SESSION
+Aug 11, 2022 24:02:31.45 [6804:9672:0811/000231.445:ERROR:device_event_log_impl.cc(214)] [00:02:31.445] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 11, 2022 24:02:31.56 [6804:9672:0811/000231.447:ERROR:device_event_log_impl.cc(214)] [00:02:31.447] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 24:02:31.58 [6804:9672:0811/000231.447:ERROR:device_event_log_impl.cc(214)] [00:02:31.447] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 11, 2022 24:02:32.09 [6804:1432:0811/000232.098:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 11, 2022 24:02:52.83 [6804:1432:0811/000252.832:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 11, 2022 24:03:01.29 [6804:9672:0811/000301.293:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Aug 11, 2022 24:03:25.89 [6804:8780:0811/000325.898:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 11, 2022 24:03:37.44 [6804:1432:0811/000337.445:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 11, 2022 24:05:23.33 [6804:1432:0811/000523.335:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 12, 2022 09:01:38.01 NEW SESSION
+Aug 12, 2022 09:01:38.01 [13440:2380:0812/090138.009:ERROR:device_event_log_impl.cc(214)] [09:01:38.008] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 12, 2022 09:01:38.11 [13440:2380:0812/090138.010:ERROR:device_event_log_impl.cc(214)] [09:01:38.010] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 12, 2022 09:01:38.11 [13440:2380:0812/090138.011:ERROR:device_event_log_impl.cc(214)] [09:01:38.010] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 12, 2022 09:01:38.20 [13440:10468:0812/090138.206:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:02:03.71 [13440:10468:0812/090203.716:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:02:33.45 [13440:8844:0812/090233.453:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 12, 2022 09:02:50.01 [13440:10468:0812/090250.014:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:04:36.76 [13440:10468:0812/090436.764:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:08:10.56 [13440:10468:0812/090810.564:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:15:45.59 [13440:10468:0812/091545.591:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:25:45.60 [13440:10468:0812/092545.608:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:35:45.62 [13440:10468:0812/093545.619:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:45:45.63 [13440:10468:0812/094545.631:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 09:55:45.64 [13440:10468:0812/095545.645:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 10:05:45.66 [13440:10468:0812/100545.664:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 10:15:45.70 [13440:10468:0812/101545.705:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2022 10:16:10.30 [13440:10468:0812/101610.307:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 13, 2022 17:31:32.68 NEW SESSION
+Aug 13, 2022 17:31:32.68 [6228:8436:0813/173132.676:ERROR:device_event_log_impl.cc(214)] [17:31:32.675] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 13, 2022 17:31:32.80 [6228:8436:0813/173132.683:ERROR:device_event_log_impl.cc(214)] [17:31:32.683] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 13, 2022 17:31:32.80 [6228:8436:0813/173132.684:ERROR:device_event_log_impl.cc(214)] [17:31:32.685] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 13, 2022 17:32:26.77 [6228:6620:0813/173226.771:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 13, 2022 18:03:16.75 [4240:8660:0813/180316.751:ERROR:device_event_log_impl.cc(214)] [18:03:16.751] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 13, 2022 18:03:16.75 [4240:8660:0813/180316.752:ERROR:device_event_log_impl.cc(214)] [18:03:16.752] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 13, 2022 18:03:16.75 [4240:8660:0813/180316.753:ERROR:device_event_log_impl.cc(214)] [18:03:16.752] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 13, 2022 18:04:12.18 [4240:9080:0813/180412.180:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 14, 2022 17:55:58.70 NEW SESSION
+Aug 14, 2022 17:55:58.70 [5320:6436:0814/175558.694:ERROR:device_event_log_impl.cc(214)] [17:55:58.694] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 14, 2022 17:55:58.80 [5320:6436:0814/175558.695:ERROR:device_event_log_impl.cc(214)] [17:55:58.694] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 17:55:58.80 [5320:6436:0814/175558.695:ERROR:device_event_log_impl.cc(214)] [17:55:58.694] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 17:55:58.82 [5320:3344:0814/175558.824:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 17:55:58.83 [5320:3344:0814/175558.825:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Aug 14, 2022 17:56:19.21 [5320:3344:0814/175619.219:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 14, 2022 17:56:27.27 [5320:3344:0814/175627.274:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Aug 14, 2022 17:56:40.00 [5320:3344:0814/175640.006:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Aug 14, 2022 17:56:54.38 [5320:2556:0814/175654.384:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 14, 2022 18:40:58.98 NEW SESSION
+Aug 14, 2022 18:40:58.98 [9232:2580:0814/184058.977:ERROR:device_event_log_impl.cc(214)] [18:40:58.976] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 14, 2022 18:40:59.09 [9232:2580:0814/184058.981:ERROR:device_event_log_impl.cc(214)] [18:40:58.981] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:40:59.09 [9232:2580:0814/184058.982:ERROR:device_event_log_impl.cc(214)] [18:40:58.982] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:45:07.49 [1144:6912:0814/184507.491:ERROR:device_event_log_impl.cc(214)] [18:45:07.491] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 14, 2022 18:45:07.52 [1144:6912:0814/184507.501:ERROR:device_event_log_impl.cc(214)] [18:45:07.501] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:45:07.52 [1144:6912:0814/184507.501:ERROR:device_event_log_impl.cc(214)] [18:45:07.501] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:46:03.23 [1144:9028:0814/184603.235:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 14, 2022 18:51:33.47 NEW SESSION
+Aug 14, 2022 18:51:33.47 [8924:12740:0814/185133.457:ERROR:device_event_log_impl.cc(214)] [18:51:33.457] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 14, 2022 18:51:33.47 [8924:12740:0814/185133.463:ERROR:device_event_log_impl.cc(214)] [18:51:33.463] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:51:33.47 [8924:12740:0814/185133.470:ERROR:device_event_log_impl.cc(214)] [18:51:33.469] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:53:30.67 [12824:7328:0814/185330.661:ERROR:device_event_log_impl.cc(214)] [18:53:30.660] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 14, 2022 18:53:30.67 [12824:7328:0814/185330.662:ERROR:device_event_log_impl.cc(214)] [18:53:30.662] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:53:30.67 [12824:7328:0814/185330.666:ERROR:device_event_log_impl.cc(214)] [18:53:30.665] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 14, 2022 18:54:26.54 [12824:6996:0814/185426.543:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 15, 2022 10:30:03.44 NEW SESSION
+Aug 15, 2022 10:30:03.44 [3472:10548:0815/103003.432:ERROR:device_event_log_impl.cc(214)] [10:30:03.432] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 15, 2022 10:30:03.55 [3472:10548:0815/103003.432:ERROR:device_event_log_impl.cc(214)] [10:30:03.433] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 15, 2022 10:30:03.56 [3472:10548:0815/103003.433:ERROR:device_event_log_impl.cc(214)] [10:30:03.433] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 15, 2022 10:30:59.21 [3472:13340:0815/103059.211:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 15, 2022 13:16:56.20 NEW SESSION
+Aug 15, 2022 13:16:56.20 [8660:4604:0815/131656.202:ERROR:device_event_log_impl.cc(214)] [13:16:56.202] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 15, 2022 13:16:56.32 [8660:4604:0815/131656.203:ERROR:device_event_log_impl.cc(214)] [13:16:56.202] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 15, 2022 13:16:56.32 [8660:4604:0815/131656.203:ERROR:device_event_log_impl.cc(214)] [13:16:56.203] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 15, 2022 13:17:50.84 [8660:8036:0815/131750.848:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Aug 16, 2022 18:35:04.57 NEW SESSION
+Aug 16, 2022 18:35:04.57 [7668:9516:0816/183504.575:ERROR:device_event_log_impl.cc(214)] [18:35:04.574] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 16, 2022 18:35:04.59 [7668:9516:0816/183504.575:ERROR:device_event_log_impl.cc(214)] [18:35:04.575] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 16, 2022 18:35:04.59 [7668:9516:0816/183504.576:ERROR:device_event_log_impl.cc(214)] [18:35:04.575] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 16, 2022 18:36:00.48 [7668:1056:0816/183600.488:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 16, 2022 18:39:25.72 [4664:3904:0816/183925.722:ERROR:device_event_log_impl.cc(214)] [18:39:25.722] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 16, 2022 18:39:25.72 [4664:3904:0816/183925.723:ERROR:device_event_log_impl.cc(214)] [18:39:25.723] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 16, 2022 18:39:25.72 [4664:3904:0816/183925.723:ERROR:device_event_log_impl.cc(214)] [18:39:25.724] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 16, 2022 18:40:22.15 [4664:3492:0816/184022.156:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 16, 2022 18:58:11.92 [12108:9440:0816/185811.921:ERROR:device_event_log_impl.cc(214)] [18:58:11.921] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 16, 2022 18:58:11.92 [12108:9440:0816/185811.921:ERROR:device_event_log_impl.cc(214)] [18:58:11.922] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 16, 2022 18:59:07.97 [12108:1540:0816/185907.973:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 16, 2022 19:35:27.43 [12108:12096:0816/193527.434:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Aug 16, 2022 19:35:29.77 [12108:12096:0816/193529.775:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Aug 20, 2022 12:40:10.83 NEW SESSION
+Aug 20, 2022 12:40:10.83 [1084:5424:0820/124010.823:ERROR:device_event_log_impl.cc(214)] [12:40:10.824] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 20, 2022 12:40:10.84 [1084:5424:0820/124010.825:ERROR:device_event_log_impl.cc(214)] [12:40:10.825] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 20, 2022 12:40:10.84 [1084:5424:0820/124010.825:ERROR:device_event_log_impl.cc(214)] [12:40:10.826] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 20, 2022 12:40:11.15 [1084:6272:0820/124011.151:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2022 12:40:36.62 [1084:6272:0820/124036.620:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2022 12:41:05.49 [1084:12864:0820/124105.491:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 20, 2022 12:41:35.62 [1084:6272:0820/124135.624:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Aug 20, 2022 12:42:20.64 [1084:6272:0820/124220.639:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105

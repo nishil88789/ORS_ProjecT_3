@@ -1,0 +1,12 @@
+127.0.0.1 - - [26/Oct/2022:15:13:35 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:13:37 +0530] "GET /project_3/ HTTP/1.1" 200 780
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:13:37 +0530] "GET /project_3/img/bbbbb.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:13:43 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3801
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:13:43 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:14:07 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7202
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:14:36 +0530] "POST /project_3/LoginCtl HTTP/1.1" 200 7438
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:14:54 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:14:54 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 9885
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:14:54 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:15:01 +0530] "GET /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 16767
+0:0:0:0:0:0:0:1 - - [26/Oct/2022:15:15:01 +0530] "GET /project_3/img/images2.jpg HTTP/1.1" 304 -

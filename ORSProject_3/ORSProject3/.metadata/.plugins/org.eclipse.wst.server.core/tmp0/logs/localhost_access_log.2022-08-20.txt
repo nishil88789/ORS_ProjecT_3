@@ -1,0 +1,15 @@
+127.0.0.1 - - [20/Aug/2022:12:40:03 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:40:08 +0530] "GET /project_3/ HTTP/1.1" 200 783
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:40:08 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:40:17 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3801
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:40:17 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:40:17 +0530] "GET /project_3/img/purple.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:41:38 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7202
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:42:32 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7202
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:45:58 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:45:58 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 9888
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:45:59 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:47:35 +0530] "GET /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 16826
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:47:36 +0530] "GET /project_3/img/images2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:47:43 +0530] "POST /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 13739
+0:0:0:0:0:0:0:1 - - [20/Aug/2022:12:47:56 +0530] "POST /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 16826
